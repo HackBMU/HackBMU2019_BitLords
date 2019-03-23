@@ -12,6 +12,11 @@ The algorithm will detect humans in the cctv footage frames and will search the 
   #### 3.Software system for each node: To be installed in individual systems or ‘nodes’. Here, authorized personnel will perform operations. As per login credentials, access rights will be defined for the user.
 CCTV surveillance system provides the real-time recording as well as online access by the staff to  monitor  more intelligently that would eventually reduce the risk of crime.
  CCTV surveillance system provides the real-time recording as well as online access by the staff to  monitor  more intelligently that would eventually reduce the risk of crime.
+  ## WORKFLOW 
+  ![m4hyhpw]()
+  
+  
+  
   ## Expected Outcome:
 Tracking is used by governments for intelligence gathering, the prevention of crime, the protection of a  process,  person,  group  or  object,  or  for  the investigation of  crime. Fields of interest include:-
 ### General  civil use
