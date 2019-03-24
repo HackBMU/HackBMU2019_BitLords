@@ -14,7 +14,24 @@ CCTV surveillance system provides the real-time recording as well as online acce
  CCTV surveillance system provides the real-time recording as well as online access by the staff to  monitor  more intelligently that would eventually reduce the risk of crime.
   ## WORKFLOW 
   ![WORK FLOW](https://github.com/HackBMU/HackBMU2019_BitLords/blob/master/images/Screenshot%20(29).png)
-  ## Expected Outcome:
+ ## Screenshots of Our Projects
+ ![ss1](https://github.com/sakshigupta1102/HackBMU2019_BitLords/blob/master/Screenshot%20(30).png)
+ 
+ 
+ ![ss2](https://github.com/sakshigupta1102/HackBMU2019_BitLords/blob/master/Screenshot%20(34).png)
+ 
+ 
+ ![ss3](https://github.com/sakshigupta1102/HackBMU2019_BitLords/blob/master/Screenshot%20(37).png)
+ 
+ 
+ ![ss4](https://github.com/sakshigupta1102/HackBMU2019_BitLords/blob/master/Screenshot%20(39).png)
+ 
+
+![ss5](https://github.com/sakshigupta1102/HackBMU2019_BitLords/blob/master/Screenshot%20(42).png)
+
+
+
+## Expected Outcome:
 Tracking is used by governments for intelligence gathering, the prevention of crime, the protection of a  process,  person,  group  or  object,  or  for  the investigation of  crime. Fields of interest include:-
 ### General  civil use
 Smart Surveillance systems can be used in local residences, complexes, societies, schools, colleges, etc.
